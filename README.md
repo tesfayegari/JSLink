@@ -23,3 +23,13 @@
 - Performance – Because the rendering is done Client Side, the burden is taken away from the server. This means that the pages can load faster when using CSR.
 - Ease of Development – Let’s face it: nobody really likes XSL – especially in SharePoint. All web developers should be familiar with JavaScript, which makes Client Side Rendering a lot easier to pick up. This should mean reduced development time, and less bugs.
 - Flexibility – You can chose to overwrite just a particular field, the header, footer, or the entire view. You can also extend it; you’re not limited to using just SharePoint JavaScript to process the list, you can use the whole power of JavaScript, as well as any plugins such as jQuery.
+
+# How to use the files
+-  First Create your list based on the List.PNG image file. Then use the javascript files in the JSLinkDemo file for JSLink property of the webpart. 
+- If you have any question you can reach out to me at tesfaye.gari@gmail.com or tgari@mtmconsultinggroup.com for any question 
+# How to Deploy SharePoint AccoridonList
+- Download the COB.SharePoint.AccordionList.wsp in the SharePoint.AccordionList 
+- Go to your site setting -> Under Web Designer Galleries -> Solutions. Upload and Activate the solution.
+- Once activated you will see Accordion List created in the site and you will also have List Template (Accordion List). 
+- To use it in the subsites, go to your site settings -> Manage Site Feature -> Activate Accordion List feature 
+-For any question you can contact me at tesfaye.gari@gmail.com or tgari@mtmconsultinggroup.com
