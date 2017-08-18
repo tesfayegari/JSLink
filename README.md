@@ -32,4 +32,4 @@
 - Go to your site setting -> Under Web Designer Galleries -> Solutions. Upload and Activate the solution.
 - Once activated you will see Accordion List created in the site and you will also have List Template (Accordion List). 
 - To use it in the subsites, go to your site settings -> Manage Site Feature -> Activate Accordion List feature 
--For any question you can contact me at tesfaye.gari@gmail.com or tgari@mtmconsultinggroup.com
+- For any question you can contact me at tesfaye.gari@gmail.com or tgari@mtmconsultinggroup.com
